@@ -2,3 +2,4 @@ Hi! I'm Bob. I've been here for a while now.
 change bob 1
 change bob 2 commit
 CHANGE THIS TOO AMEND
+change 5 interactive rebase
